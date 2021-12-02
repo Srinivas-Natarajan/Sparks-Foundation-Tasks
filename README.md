@@ -7,8 +7,8 @@ A collection of of the solutions for the tasks given by the Sparks Foundation
 Predicting student scores based on the number of hours they studied
 
 <div>
-  <img src="https://github.com/Srinivas-Natarajan/Sparks-Foundation-Tasks/blob/main/Pictures/Task_1_Training.png" alt="Training Line" height="200" />
-  <img src="https://github.com/Srinivas-Natarajan/Sparks-Foundation-Tasks/blob/main/Pictures/Task_1_Test.png" alt="Test Line" height="200" />
+  <img src="https://github.com/Srinivas-Natarajan/Sparks-Foundation-Tasks/blob/main/Pictures/Task_1_Training.png" alt="Training Line" height="250" />
+  <img src="https://github.com/Srinivas-Natarajan/Sparks-Foundation-Tasks/blob/main/Pictures/Task_1_Test.png" alt="Test Line" height="250" />
 </div>
 
 <br>
