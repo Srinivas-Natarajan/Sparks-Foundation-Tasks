@@ -16,11 +16,11 @@ Predicting student scores based on the number of hours they studied
 ## **Task-2: Unsupervised Machine Learning**
 Identifying the ideal number of clusters for the IRIS dataset and clustering the data using K-means 
 
-<img src="https://github.com/Srinivas-Natarajan/Sparks-Foundation-Tasks/blob/main/Pictures/Task_2_Elbow.png" alt="Elbow" />
+<img src="https://github.com/Srinivas-Natarajan/Sparks-Foundation-Tasks/blob/main/Pictures/Task_2_Elbow.png" alt="Elbow" height="250" />
 
 <br>
 
-<img src="https://github.com/Srinivas-Natarajan/Sparks-Foundation-Tasks/blob/main/Pictures/Task_2_Cluster.png" alt="Elbow" />
+<img src="https://github.com/Srinivas-Natarajan/Sparks-Foundation-Tasks/blob/main/Pictures/Task_2_Cluster.png" alt="Elbow" height="250" />
 
 <br>
 
