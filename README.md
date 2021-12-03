@@ -26,3 +26,8 @@ Identifying the ideal number of clusters for the IRIS dataset and clustering the
 
 ## **Task-3: Creating a dashboard for a sales dataset**
 Power BI link: https://app.powerbi.com/groups/me/reports/0af3b692-eda1-469c-b5ea-7dcbc6a59cd6?ctid=d4963ce2-af94-4122-95a9-644e8b01624d&pbi_source=linkShare
+
+<br>
+
+## **Task-4: Creating a dashboard for a Terrorist Attack dataset**
+Power BI link: https://app.powerbi.com/groups/me/reports/85dc688b-a7fe-4848-b9eb-aa549915874a?ctid=d4963ce2-af94-4122-95a9-644e8b01624d&pbi_source=linkShare
