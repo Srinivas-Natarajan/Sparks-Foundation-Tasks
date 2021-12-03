@@ -1,0 +1,9 @@
+1. Removed Unnecessary columns like attack vector IDs
+2. Concatenated the Year, Month and Day into a Date field
+3. Concatenated the Country, State and City fields into a Location Column
+4. Removed empty rows from the Latitude, Longitude and City fields
+5. Removed mostly empty fields like the Group Subnames as it had only a few entires of the same value
+6. Substituted null values in the "Claimed" field with 0's
+7. Replace null with 0's in "nkill" and "nwound" column
+8. Replace blanks in the "Property Extent" column with None
+9. Temporarily replace the blanks in "Weapon Subtype" with Unknown [Replaced value 5]. Modify later.
